@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+    
+
+h1{
+    font-size: 100px;
+    color: rgb(170, 170, 170);
+}
+
+a{
+   text-decoration: none; 
+   color: white;
+   font-size: 50px ;
+}
+.header , .footer{
+   
+    height: 10% ;
+    background-color: rgb(55, 55, 55);
+}
+.main{
+    
+    height: 80% ;
+    background-color: rgb(70, 70, 70);
+}
+img{
+    height: 200px;
+    width: 150px;
+    display: inline-block;
+}
+p{
+    color:white;
+}
+.p-o{
+    color: rgb(170, 170, 170);
+}
+b{
+    color: rgb(150, 150, 150); 
+}
+
+
+
