@@ -7,7 +7,7 @@ body{
 }
 h1{
     font-size: 100px;
-    color: rgb(170, 170, 170);
+    color: rgb(150, 150, 150);
 }
 
 a{
@@ -44,6 +44,9 @@ b{
     background-color: rgb(46, 46, 46);
     padding: 30px;
     margin: 50px;
+}
+.child-g{
+    background-color: rgb(40, 40, 40);
 }
 
 
