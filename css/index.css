@@ -1,0 +1,68 @@
+
+h1{
+    font-size: 100px;
+    color: rgb(150, 150, 150);
+}
+
+a{
+   text-decoration: none; 
+   color: rgb(0, 0, 0);
+   font-size: 90px ;
+   font-family: Calibri;
+}
+.header , .footer{
+   
+    height: 10% ;
+    background-color: rgb(55, 55, 55);
+}
+.main{
+    
+    height: 80% ;
+    background-color: rgb(70, 70, 70);
+}
+
+.p-o{
+    color: rgb(170, 170, 170);
+}
+
+.child-h{
+    background-color: rgb(46, 46, 46);
+    padding: 30px;
+    margin: 50px;
+    
+}
+.child-g{
+    background-color: rgb(40, 40, 40);
+}
+.child-p{
+    color:rgb(75, 75, 75);
+}
+h2{
+    color: rgb(30, 30, 30);
+}
+
+@media (orientation:portrait) {    
+    .main{
+        background-color: rgb(150, 150, 150);
+        width: 100vw;
+        display: inline-block;
+        
+    }
+    a{
+       text-decoration: none; 
+       color: rgb(0, 0, 0);
+       font-size: 60px ;
+       font-family:monospace;
+    }
+    h2{
+        color: rgb(50, 50, 50);   
+    }
+    .class-h1{
+        font-size: 50px;
+        color: rgb(80, 80, 80);
+    }
+}
+
+
+
+
