@@ -66,4 +66,7 @@ body{
     .child-p{
         color:rgb(10, 10, 10)
     }
+    .c-p{
+        width: 60%;
+    }
 }
