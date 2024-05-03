@@ -86,9 +86,9 @@ body{
     .c-p{
         display: none;
         } 
-        .border-p{
+    .border-p{
             background-color: rgb(55, 55, 55);
-            border: solid rgb(30, 30, 30) 25px ;
+            border: solid rgb(30, 30, 30) 24px ;
             width:76%;
         }
 }
