@@ -27,7 +27,8 @@ a{
     background-color: rgb(46, 46, 46);
     padding: 30px;
     margin: 3vmin;
-    
+    border: solid rgb(46, 46, 46) -2px;
+    border-radius: 50px;
 }
 .ds{
     font-family: Arial;
@@ -55,10 +56,11 @@ a{
        font-size: 50px ;
     }
     .child-d{
-        background-color: rgb(46, 46, 46);
+        background-color: rgb(46, 46, 46) -2px;
         padding: 10px;
         margin: 25px;
-        
+        border: solid rgb(46, 46, 46) ;
+    border-radius: 50px;
     }
     .l-p{
    display: inline;

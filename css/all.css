@@ -66,9 +66,12 @@ body{
     }
     .child-h{
         background-color: rgb(46, 46, 46);
+        border: solid rgb(46, 46, 46) -2px;
+        border-radius: 50px;
         padding: 5px;
         margin: 15px;
         width: 88%;
+        
     }
     .child-g{
         background-color: rgb(60, 60, 60);

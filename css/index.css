@@ -29,7 +29,8 @@ a{
     background-color: rgb(46, 46, 46);
     padding: 30px;
     margin: 5vmin;
-    
+    border: solid rgb(46, 46, 46) -2px;
+    border-radius: 50px;
 }
 .child-g{
     background-color: rgb(40, 40, 40);
