@@ -22,6 +22,9 @@ body{
     background-color: rgb(70, 70, 70);
     
 }
+.l-p{
+    display: none;
+}
 @media (orientation:portrait) {
     
     .header , .footer{
@@ -42,8 +45,8 @@ body{
         color: rgb(80, 80, 80);
     }
     img{
-        height: 200px;
-        width: 150px;
+        height: 150px;
+        width: 100px;
         display: inline-block;
     }
     p{
@@ -58,8 +61,8 @@ body{
     }
     .child-h{
         background-color: rgb(46, 46, 46);
-        padding: 30px;
-        margin: 50px;
+        padding: 10px;
+        margin: 25px;
     }
     .child-g{
         background-color: rgb(60, 60, 60);
@@ -70,4 +73,10 @@ body{
     .c-p{
         width: 60%;
     }
+    .l-p{ 
+        display: inline;
+        }
+    .c-p{
+        display: none;
+        } 
 }
