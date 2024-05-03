@@ -3,8 +3,8 @@
     text-align: left;
 }
 img{
-    height: 400px;
-    width: 260px;
+    height: 325px;
+    width: 225px;
     display: inline-block;
 }
 p{
@@ -25,12 +25,18 @@ body{
 .l-p{
     display: none;
 }
+.border-p{
+    background-color: rgb(55, 55, 55);
+    border: solid rgb(30, 30, 30) 30px ;
+    border-radius: 50px;
+    width:45%
+}
 @media (orientation:portrait) {
     
     .header , .footer{
         height: 10% ;
         background-color: rgb(100, 100, 100);
-
+        
     }
     *{
         margin: 0px;
@@ -38,7 +44,6 @@ body{
     }
     body{
         background-color: rgb(70, 70, 70);
-        
     }
     h1{
         font-size: 70px;
@@ -63,9 +68,11 @@ body{
         background-color: rgb(46, 46, 46);
         padding: 5px;
         margin: 15px;
+        width: 88%;
     }
     .child-g{
         background-color: rgb(60, 60, 60);
+        
     }
     .child-p{
         color:rgb(10, 10, 10)
@@ -79,4 +86,9 @@ body{
     .c-p{
         display: none;
         } 
+        .border-p{
+            background-color: rgb(55, 55, 55);
+            border: solid rgb(30, 30, 30) 25px ;
+            width:76%;
+        }
 }
