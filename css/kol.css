@@ -39,6 +39,7 @@ a{
 @media (orientation:portrait) {
     .main{
         background-color: rgb(150, 150, 150);
+        
     }
     a{
        text-decoration: none; 

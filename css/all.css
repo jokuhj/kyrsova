@@ -47,7 +47,7 @@ body{
     }
     h1{
         font-size: 70px;
-        color: rgb(80, 80, 80);
+        color: rgb(100, 100, 100);
     }
     img{
         height: 150px;
@@ -74,7 +74,7 @@ body{
         
     }
     .child-g{
-        background-color: rgb(60, 60, 60);
+        background-color: rgb(70, 70, 70);
         
     }
     .child-p{
@@ -82,13 +82,13 @@ body{
     }
     .c-p{
         width: 60%;
+        text-align: left;
+        display: none;
     }
     .l-p{ 
         display: inline;
+        text-align: left;
         }
-    .c-p{
-        display: none;
-        } 
     .border-p{
             background-color: rgb(55, 55, 55);
             border: solid rgb(30, 30, 30) 24px ;
