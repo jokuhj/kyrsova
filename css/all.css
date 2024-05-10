@@ -1,6 +1,7 @@
 .c-p{
     width: 700px;
     text-align: left;
+    padding-bottom: 10px;
 }
 img{
     height: 300px;
@@ -78,7 +79,8 @@ body{
         
     }
     .child-p{
-        color:rgb(10, 10, 10)
+        color:rgb(10, 10, 10);
+        padding-bottom: 10px;
     }
     .c-p{
         width: 60%;
@@ -88,10 +90,13 @@ body{
     .l-p{ 
         display: inline;
         text-align: left;
+        
         }
     .border-p{
             background-color: rgb(55, 55, 55);
             border: solid rgb(30, 30, 30) 24px ;
             width:76%;
+            padding-bottom: 15px;
+        }
         }
 }
